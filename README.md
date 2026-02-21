@@ -8,23 +8,15 @@ The goal is to use Python for solving real-world DevOps problems — not just ba
 
 ## 📂 Repository Structure
 
-### ⚙ Automation
-- file_backup.py – Automates directory backup
-- bulk_user_create.py – Simulates bulk user creation
+### Server Health Monitor
+- CPU, memory, disk checks
+- Status-based reporting
+- Beginner-friendly automation
 
-### 📊 Monitoring
-- system_monitor.py – Displays CPU & memory usage
-- disk_alert.py – Sends alert if disk usage exceeds threshold
+### Log Analyzer
+- Parse application logs
+- Count errors and warnings
+- Filter logs by keyword
 
-### 🌐 API Integration
-- github_api_check.py – Fetches public GitHub repo details using API
 
-### 🛠 Utilities
-- json_reader.py – Reads and parses JSON configuration files
-
----
-
-## 🔧 Requirements
-
-Install dependencies:
 
